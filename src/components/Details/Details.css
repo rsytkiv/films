@@ -1,0 +1,28 @@
+h1 {
+    text-transform: uppercase;
+    font-size: 28px;
+}
+.filmInfo {
+    padding: 25px 100px;
+    display: flex;
+    flex-direction: column;
+    background-color: #ebebeb;
+    margin-top: 20px;
+}
+h2 {
+    font-size: 24px;
+}
+.margin {
+    margin: 20px 0;
+}
+.poster {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.filmDetails {
+    padding: 0 70px;
+}
+.titleContainer {
+    text-align: center;
+}
